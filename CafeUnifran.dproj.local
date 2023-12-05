@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023/12/04 16:25:03.000.758,C:\Users\admin\Desktop\Cafe Unifran\CafeUnifran.dproj=C:\Users\admin\Desktop\Cafe Unifran\SplitView.dproj</Transaction>
+    <Transaction>2023/12/04 16:25:19.000.118,C:\Users\admin\Desktop\Cafe Unifran\uMain.pas=C:\Users\admin\Desktop\Cafe Unifran\uSplitView.pas</Transaction>
+    <Transaction>2023/12/04 16:25:19.000.118,C:\Users\admin\Desktop\Cafe Unifran\uMain.dfm=C:\Users\admin\Desktop\Cafe Unifran\uSplitView.dfm</Transaction>
+    <Transaction>2023/12/04 16:28:34.000.368,=C:\Users\admin\Desktop\Cafe Unifran\Unit1.pas</Transaction>
+    <Transaction>2023/12/04 16:28:53.000.587,C:\Users\admin\Desktop\Cafe Unifran\dMain.pas=C:\Users\admin\Desktop\Cafe Unifran\Unit1.pas</Transaction>
+    <Transaction>2023/12/04 16:28:53.000.587,C:\Users\admin\Desktop\Cafe Unifran\dMain.dfm=C:\Users\admin\Desktop\Cafe Unifran\Unit1.dfm</Transaction>
+    <Transaction>2023/12/04 16:31:03.000.618,=C:\Users\admin\Desktop\Cafe Unifran\Unit1.pas</Transaction>
+    <Transaction>2023/12/04 18:07:22.000.059,=C:\Users\admin\Desktop\Cafe Unifran\Unit1.pas</Transaction>
+    <Transaction>2023/12/04 18:07:38.000.528,C:\Users\admin\Desktop\Cafe Unifran\dLogin.dfm=C:\Users\admin\Desktop\Cafe Unifran\Unit1.dfm</Transaction>
+    <Transaction>2023/12/04 18:07:38.000.528,C:\Users\admin\Desktop\Cafe Unifran\dLogin.pas=C:\Users\admin\Desktop\Cafe Unifran\Unit1.pas</Transaction>
+    <Transaction>2023/12/04 18:07:51.000.215,=C:\Users\admin\Desktop\Cafe Unifran\Unit1.pas</Transaction>
+    <Transaction>2023/12/04 18:08:08.000.731,C:\Users\admin\Desktop\Cafe Unifran\fLogin.pas=C:\Users\admin\Desktop\Cafe Unifran\Unit1.pas</Transaction>
+    <Transaction>2023/12/04 18:08:08.000.731,C:\Users\admin\Desktop\Cafe Unifran\fLogin.dfm=C:\Users\admin\Desktop\Cafe Unifran\Unit1.dfm</Transaction>
+    <Transaction>2023/12/04 18:11:33.000.684,C:\Users\admin\Desktop\Cafe Unifran\fLogin.pas=</Transaction>
+    <Transaction>2023/12/04 18:11:41.000.779,=C:\Users\admin\Desktop\Cafe Unifran\Unit1.pas</Transaction>
+    <Transaction>2023/12/04 18:11:49.000.012,C:\Users\admin\Desktop\Cafe Unifran\Unit1.pas=C:\Users\admin\Desktop\Cafe Unifran\fLogin.pas</Transaction>
+    <Transaction>2023/12/04 18:11:49.000.012,C:\Users\admin\Desktop\Cafe Unifran\Unit1.dfm=C:\Users\admin\Desktop\Cafe Unifran\fLogin.dfm</Transaction>
+    <Transaction>2023/12/04 18:11:52.000.481,C:\Users\admin\Desktop\Cafe Unifran\CafeUnifran.dproj=C:\Users\admin\Desktop\Cafe Unifran\CafeUnifran.dproj</Transaction>
+    <Transaction>2023/12/04 19:32:40.000.730,=C:\Users\admin\Desktop\Cafe Unifran\Unit1.pas</Transaction>
+    <Transaction>2023/12/04 19:33:06.000.699,C:\Users\admin\Desktop\Cafe Unifran\Unit1.dfm=C:\Users\admin\Desktop\Cafe Unifran\fBase.dfm</Transaction>
+    <Transaction>2023/12/04 19:33:06.000.699,C:\Users\admin\Desktop\Cafe Unifran\Unit1.pas=C:\Users\admin\Desktop\Cafe Unifran\fBase.pas</Transaction>
+    <Transaction>2023/12/04 19:42:44.000.448,=C:\Users\admin\Desktop\Cafe Unifran\Unit1.pas</Transaction>
+    <Transaction>2023/12/04 19:43:03.000.322,C:\Users\admin\Desktop\Cafe Unifran\Unit1.pas=C:\Users\admin\Desktop\Cafe Unifran\fUsuarios.pas</Transaction>
+    <Transaction>2023/12/04 19:43:03.000.322,C:\Users\admin\Desktop\Cafe Unifran\Unit1.dfm=C:\Users\admin\Desktop\Cafe Unifran\fUsuarios.dfm</Transaction>
+    <Transaction>2023/12/04 19:43:51.000.963,=C:\Users\admin\Desktop\Cafe Unifran\Unit1.pas</Transaction>
+    <Transaction>2023/12/04 19:44:08.000.244,C:\Users\admin\Desktop\Cafe Unifran\Unit1.pas=C:\Users\admin\Desktop\Cafe Unifran\dUsuarios.pas</Transaction>
+    <Transaction>2023/12/04 19:44:08.000.244,C:\Users\admin\Desktop\Cafe Unifran\Unit1.dfm=C:\Users\admin\Desktop\Cafe Unifran\dUsuarios.dfm</Transaction>
+    <Transaction>2023/12/05 14:21:17.000.550,=C:\Users\admin\Desktop\Cafe Unifran\Unit1.pas</Transaction>
+    <Transaction>2023/12/05 14:21:55.000.502,C:\Users\admin\Desktop\Cafe Unifran\dPessoas.dfm=C:\Users\admin\Desktop\Cafe Unifran\Unit1.dfm</Transaction>
+    <Transaction>2023/12/05 14:21:55.000.502,C:\Users\admin\Desktop\Cafe Unifran\dPessoas.pas=C:\Users\admin\Desktop\Cafe Unifran\Unit1.pas</Transaction>
+    <Transaction>2023/12/05 14:22:01.000.702,C:\Users\admin\Desktop\Cafe Unifran\CafeUnifran.dproj=C:\Users\admin\Desktop\Cafe Unifran\CafeUnifran.dproj</Transaction>
+    <Transaction>2023/12/05 14:23:33.000.781,=C:\Users\admin\Desktop\Cafe Unifran\Unit1.pas</Transaction>
+    <Transaction>2023/12/05 14:23:56.000.707,C:\Users\admin\Desktop\Cafe Unifran\fPessoas.dfm=C:\Users\admin\Desktop\Cafe Unifran\Unit1.dfm</Transaction>
+    <Transaction>2023/12/05 14:23:56.000.707,C:\Users\admin\Desktop\Cafe Unifran\fPessoas.pas=C:\Users\admin\Desktop\Cafe Unifran\Unit1.pas</Transaction>
+    <Transaction>2023/12/05 14:54:00.000.797,=C:\Users\admin\Desktop\Cafe Unifran\Unit1.pas</Transaction>
+    <Transaction>2023/12/05 14:54:18.000.714,C:\Users\admin\Desktop\Cafe Unifran\dProdutos.pas=C:\Users\admin\Desktop\Cafe Unifran\Unit1.pas</Transaction>
+    <Transaction>2023/12/05 14:54:18.000.714,C:\Users\admin\Desktop\Cafe Unifran\dProdutos.dfm=C:\Users\admin\Desktop\Cafe Unifran\Unit1.dfm</Transaction>
+    <Transaction>2023/12/05 14:54:49.000.132,=C:\Users\admin\Desktop\Cafe Unifran\Unit1.pas</Transaction>
+    <Transaction>2023/12/05 14:55:02.000.860,C:\Users\admin\Desktop\Cafe Unifran\fProdutos.pas=C:\Users\admin\Desktop\Cafe Unifran\Unit1.pas</Transaction>
+    <Transaction>2023/12/05 14:55:02.000.860,C:\Users\admin\Desktop\Cafe Unifran\fProdutos.dfm=C:\Users\admin\Desktop\Cafe Unifran\Unit1.dfm</Transaction>
+    <Transaction>2023/12/05 15:26:48.000.412,=C:\Users\admin\Desktop\Cafe Unifran\Unit1.pas</Transaction>
+    <Transaction>2023/12/05 15:27:03.000.717,C:\Users\admin\Desktop\Cafe Unifran\Unit1.pas=C:\Users\admin\Desktop\Cafe Unifran\dVendas.pas</Transaction>
+    <Transaction>2023/12/05 15:27:03.000.717,C:\Users\admin\Desktop\Cafe Unifran\Unit1.dfm=C:\Users\admin\Desktop\Cafe Unifran\dVendas.dfm</Transaction>
+    <Transaction>2023/12/05 15:27:26.000.770,=C:\Users\admin\Desktop\Cafe Unifran\Unit1.pas</Transaction>
+    <Transaction>2023/12/05 15:27:40.000.982,C:\Users\admin\Desktop\Cafe Unifran\Unit1.pas=C:\Users\admin\Desktop\Cafe Unifran\fVendas.pas</Transaction>
+    <Transaction>2023/12/05 15:27:40.000.982,C:\Users\admin\Desktop\Cafe Unifran\Unit1.dfm=C:\Users\admin\Desktop\Cafe Unifran\fVendas.dfm</Transaction>
+    <Transaction>2023/12/05 15:53:09.000.141,=C:\Users\admin\Desktop\Cafe Unifran\Unit1.pas</Transaction>
+    <Transaction>2023/12/05 15:53:31.000.996,C:\Users\admin\Desktop\Cafe Unifran\Unit1.dfm=C:\Users\admin\Desktop\Cafe Unifran\fPesqCliente.dfm</Transaction>
+    <Transaction>2023/12/05 15:53:31.000.996,C:\Users\admin\Desktop\Cafe Unifran\Unit1.pas=C:\Users\admin\Desktop\Cafe Unifran\fPesqCliente.pas</Transaction>
+    <Transaction>2023/12/05 16:11:10.000.624,=C:\Users\admin\Desktop\Cafe Unifran\fPesqEntregador.pas</Transaction>
+    <Transaction>2023/12/05 16:14:06.000.914,=C:\Users\admin\Desktop\Cafe Unifran\fPesqProdutos.pas</Transaction>
+  </Transactions>
+</BorlandProject>
